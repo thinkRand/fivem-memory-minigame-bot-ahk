@@ -9,9 +9,7 @@ This script plays a **memory minigame** for you in FiveM. Here's how the minigam
 
 1. **Memorize Phase**: Some squares on a 6×6 grid turn **gray/white**
 2. **Repeat Phase**: You must click those same squares in the same order
-3. **The script**: Automatically detects the gray squares and clicks them for you
-
-![Minigame Example](image.png)
+3. **The script**: Automatically detects the gray squares and clicks them for yo
 
 ## Requirements
 
